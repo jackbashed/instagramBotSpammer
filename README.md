@@ -10,3 +10,7 @@ Instagram bot that spams comments, follows someone, messages, then unfollows
 5. Open the file in your text editor
 6. Fill in the password, email, and text
 7. Go back to the command prompt and run "node instagram.js"
+
+
+
+DONT WORRY IT IS WORKING YOU JUST HAVE TO WAIT ONE MINUTE FOR IT TO GET STARTED
